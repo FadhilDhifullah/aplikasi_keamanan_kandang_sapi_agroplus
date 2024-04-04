@@ -1,0 +1,12 @@
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-jetified-window-1.0.0-beta04-0 C:\Users\acer\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-jetified-window-java-1.0.0-beta04-1 C:\Users\acer\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-core-1.6.0-2 C:\Users\acer\.gradle\caches\transforms-3\2579a7de00054bf46a8dbc332552f622\transformed\core-1.6.0\res
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-jetified-annotation-experimental-1.1.0-3 C:\Users\acer\.gradle\caches\transforms-3\3f96ca76068ab400b494bc7d541ee256\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-debug-4 C:\Users\acer\Documents\Kuliah\Semester 4\PBM TM\aplikasi_keamanan_kandang_sapi_agroplus\android\app\src\debug\res
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-main-5 C:\Users\acer\Documents\Kuliah\Semester 4\PBM TM\aplikasi_keamanan_kandang_sapi_agroplus\android\app\src\main\res
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-pngs-6 C:\Users\acer\Documents\Kuliah\Semester 4\PBM TM\aplikasi_keamanan_kandang_sapi_agroplus\build\app\generated\res\pngs\debug
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-resValues-7 C:\Users\acer\Documents\Kuliah\Semester 4\PBM TM\aplikasi_keamanan_kandang_sapi_agroplus\build\app\generated\res\resValues\debug
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-rs-8 C:\Users\acer\Documents\Kuliah\Semester 4\PBM TM\aplikasi_keamanan_kandang_sapi_agroplus\build\app\generated\res\rs\debug
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-mergeDebugResources-9 C:\Users\acer\Documents\Kuliah\Semester 4\PBM TM\aplikasi_keamanan_kandang_sapi_agroplus\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-mergeDebugResources-10 C:\Users\acer\Documents\Kuliah\Semester 4\PBM TM\aplikasi_keamanan_kandang_sapi_agroplus\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.aplikasi_keamanan_kandang_sapi_agroplus.app-merged_res-11 C:\Users\acer\Documents\Kuliah\Semester 4\PBM TM\aplikasi_keamanan_kandang_sapi_agroplus\build\app\intermediates\merged_res\debug

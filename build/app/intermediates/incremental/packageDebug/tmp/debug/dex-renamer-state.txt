@@ -1,0 +1,4 @@
+#Thu Apr 04 15:15:20 WIB 2024
+base.0=C\:\\Users\\acer\\Documents\\Kuliah\\Semester 4\\PBM TM\\aplikasi_keamanan_kandang_sapi_agroplus\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
